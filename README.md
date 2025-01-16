@@ -56,12 +56,16 @@ While regional disparities are minimal, further investigation could uncover micr
 
 # SQL Project 1
 
-Title: 
+**Title:** Hospital Emergency Room - SQL Data Manipulation & Interogation
 
-Tools Used:
+**SQL Code:** [Hospital Emergency Room SQL Code](https://github.com/Ezseun/Ezseun.github.io/blob/main/Hospital%20_Emergency_Room.sql)
 
-Project Description:
+**SQL Skills Used:** 
+Data Retrieval (SELECT): Queried & extracted specific records from the database.
+Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
+Data Source Specification (FROM): Specified the tables used as data sources for retrieval
 
-Key findings:
+**Project Description:**
 
-Dashboard Overview:
+**Technology used:** SQL server
