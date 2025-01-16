@@ -25,7 +25,7 @@ Departmental Insights: Highlighting the most referred departments and their asso
 
 # Excel Project 1
 
-** Title:** [Heart Health Insight Dashboard](heart_attack_youth_adult_france.xlsx)
+** Title:** [Heart Health Insight Dashboard](https://github.com/Ezseun/Ezseun.github.io/blob/main/heart_attack_youth_adult_france.xlsx)
 
 **Tools Used:** Micosoft Excel (Excel formulas, Get Pivot Data, Pivot Table, Pivot Chat, Slicers, Timelines, and many more)
 
