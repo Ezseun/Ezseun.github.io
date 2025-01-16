@@ -54,3 +54,14 @@ While regional disparities are minimal, further investigation could uncover micr
 **Dashboard Overview:**
 ![Dashboard](Dashboard.jpg)
 
+# SQL Project 1
+
+Title: 
+
+Tools Used:
+
+Project Description:
+
+Key findings:
+
+Dashboard Overview:
