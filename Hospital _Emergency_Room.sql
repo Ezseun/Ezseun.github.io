@@ -1,7 +1,7 @@
 HEALTHCARE PORTFOLIO PROJECT - Emergency Room Data Exploration.sql
 
 SELECT *
-FROM [Portfolio Data].dbo.['Emergency Room']
+FROM [dbo].['Emergency Room']
 
 ---Cleaning Data in SQL Queries
 UPDATE [dbo].['Emergency Room']
