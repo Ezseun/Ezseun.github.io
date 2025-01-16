@@ -41,31 +41,30 @@ These similar rates suggest that regional disparities are not significant in thi
 4. Overall Health Metrics
 Heart Attack Rate: The heart attack rate is 20.04%, meaning roughly 1 in 5 patients experiences a heart attack.
 Total Patients: The dataset includes 266,786 patients, of whom 53,473 have experienced a heart attack.
-Next Steps
-Target Obesity Interventions:
-Focus on reducing BMI through weight management programs, as obesity is strongly correlated with heart attacks.
-Refine Smoking Insights:
-Although the smoker vs. non-smoker difference is small, further analysis may reveal if smoking interacts with other factors like age or BMI.
-Age-Focused Campaigns:
-Create awareness programs targeting the 36–55 age group, where heart attack risks are highest.
-Validate Regional Data:
-While regional disparities are minimal, further investigation could uncover micro-level variations within regions.
 
 **Dashboard Overview:**
 ![Dashboard](Dashboard.jpg)
 
 # SQL Project 1
 
-**Title:** Hospital Emergency Room - SQL Data Manipulation & Interogation
+**Title:** Hospital Emergency Department Dataset - SQL Data Manipulation & Interrogation
 
 **SQL Code:** [Hospital Emergency Room SQL Code](https://github.com/Ezseun/Ezseun.github.io/blob/main/Hospital%20_Emergency_Room.sql)
 
 **SQL Skills Used:** 
-Data Retrieval (SELECT): Queried & extracted specific records from the database.
-Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
-Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
-Data Source Specification (FROM): Specified the tables used as data sources for retrieval
+Data Retrieval (SELECT): Queried and extracted specific information about patient demographics, wait times, admissions, and satisfaction scores.
+Data Aggregation (AVG, COUNT, SUM): Calculated averages (e.g., wait times), totals (e.g., patient counts), and percentages (e.g., admission rates) for comprehensive trend analysis.
+Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, such as analyzing specific age groups, departments, and patient satisfaction levels.
+Common Table Expressions (CTE): Used CTE to simplify complex queries and improve code readability for analyzing trends and relationships in the dataset.
+Data Source Specification (FROM): Utilized the hospital emergency room dataset as the primary data source for analysis.
 
 **Project Description:**
+The primary objective of this project was extracting actionable insights and performing detailed trend analyses from a hospital emergency department dataset spanning two years and consisting of 9216 rows of data. Key analyses included:
+
+Demographic Trends: Understanding patient age, gender, and racial distributions.
+Performance Metrics: Evaluating department efficiency through average wait times and admission rates.
+Correlation Studies: Identifying relationships between wait times and satisfaction scores.
+Seasonal Trends: Analyzing monthly and yearly admission patterns.
+Departmental Insights: Highlighting the most referred departments and their associated metrics.
 
 **Technology used:** SQL server
