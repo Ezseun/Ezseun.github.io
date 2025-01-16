@@ -106,4 +106,4 @@ Product Trends:
 * Quantity sold by product category: Clothing (0.89K), Electronics (0.85K), and Beauty (0.77
 
 Dashboard Overview:
-![Dashboard](Sales_Report_Dashboard.jpg
+![Dashboard](Sales_Report_Dashboard.jpg)
