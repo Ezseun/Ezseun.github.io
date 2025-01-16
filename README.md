@@ -69,3 +69,40 @@ Total Patients: The dataset includes 266,786 patients, of whom 53,473 have exper
 
 **Dashboard Overview:**
 ![Dashboard](Dashboard.jpg)
+
+
+
+# Power BI Project 1
+
+**Title:** Sales Insight Dashboard
+
+**Tools Used:** Data Visualization: Designed and created interactive visualizations to represent sales performance metrics.
+Data Filtering (Slicers): Incorporated slicers for filtering data by gender, year, quarter, month, and day.
+Data Aggregation: Summarized data using measures such as total revenue, total products sold, and total transactions.
+Dynamic Reporting: Enabled drill-down capabilities and dynamic updates to ensure flexibility in analysis.
+
+**Project Description:** This project involved creating a sales report dashboard to provide a holistic overview of business performance metrics. The dashboard was designed using Power BI and incorporates dynamic filtering, visual elements, and KPIs to provide actionable insights for decision-making. The dashboard focuses on summarizing sales trends, customer demographics, and product performance.
+
+**Key findings:**   
+
+Key Performance Indicators (KPIs):
+
+* Total revenue: $456K.
+* Total products sold: 2,514 units.
+* Total transactions: 1,000.
+
+Revenue Insights:   
+
+* Top-performing products by revenue: Electronics ($157K), Clothing ($156K), and Beauty ($144K).
+* Revenue distribution by age group: Customers aged 25-54 contributed the most revenue ($97K each).
+
+Gender-based Analysis:
+* Purchase split: 51% male and 49% female.
+
+Sales Trends:
+* Monthly trends showed peaks in June, September, and November.
+
+Product Trends:
+* Quantity sold by product category: Clothing (0.89K), Electronics (0.85K), and Beauty (0.77
+
+Dashboard Overview:
