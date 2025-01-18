@@ -29,7 +29,8 @@ Departmental Insights: Highlighting the most referred departments and their asso
 
 **Tools Used:** Micosoft Excel (Excel formulas, Get Pivot Data, Pivot Table, Pivot Chat, Slicers, Timelines, and many more)
 
-**Project Description:** This project explores key factors contributing to heart conditions using a dataset focused on demographic, lifestyle, and regional variables. The dashboard, built entirely in Excel, provides an interactive and visual analysis to help stakeholders identify trends and risk factors related to heart health.
+**Project Description:** 
+This project explores key factors contributing to heart conditions using a dataset focused on demographic, lifestyle, and regional variables. The dashboard, built entirely in Excel, provides an interactive and visual analysis to help stakeholders identify trends and risk factors related to heart health.
 Key features of the dashboard include:
 1.	Patients by Age Group: A bar chart categorizing patients into different age groups to identify the most affected demographics.
 2.	Patients by Sex Distribution: A pie chart showing the proportion of male, female, and other genders, aiding in demographic analysis.
@@ -75,30 +76,30 @@ Total Patients: The dataset includes 266,786 patients, of whom 53,473 have exper
 
 ** Title:** [Automobile Sales Performance Dashboard](https://github.com/Ezseun/Ezseun.github.io/blob/main/Auto_Sales_Data.xlsx)
 
-**Tools Used:** Microsoft Excel (Excel formulas, Pivot Tables, Pivot Charts, Slicers, Timelines, and more)
+**Tools Used:**   Microsoft Excel (Excel formulas, Pivot Tables, Pivot Charts, Slicers, Timelines, and more)
 
-**Project Description:** 
+**Project Description:**  
 This project involved analyzing automobile sales data to identify trends and patterns in performance across regions, product lines, and customer segments. The dashboard provides a comprehensive overview of key metrics, enabling stakeholders to monitor and analyze sales dynamics effectively. Key features include:
 
-Sales Trends Over Time: A line chart visualizing quarterly sales performance, highlighting seasonality and trends.
-Order Size Distribution: A pie chart breaking down sales by small, medium, and large orders.
-Regional Sales Performance: A bar chart displaying total sales across countries to identify top-performing regions.
-Top 10 Products by Revenue: Highlights the best-performing products based on revenue.
-Customer by Revenue: Displays revenue contributions of key customers for strategic targeting.
-Product Line Analysis: A dual-axis chart comparing total revenue and units sold for each product line.
-Additionally, the dashboard includes interactive slicers for:
-Year and Month: Filter performance by time periods.
-Product Line and Country: Drill down into specific product lines or regions.
+Sales Trends Over Time: A line chart visualizing quarterly sales performance, highlighting seasonality and trends.  
+Order Size Distribution: A pie chart breaking down sales by small, medium, and large orders.  
+Regional Sales Performance: A bar chart displaying total sales across countries to identify top-performing regions.  
+Top 10 Products by Revenue: Highlights the best-performing products based on revenue.  
+Customer by Revenue: Displays revenue contributions of key customers for strategic targeting.  
+Product Line Analysis: A dual-axis chart comparing total revenue and units sold for each product line.  
+Additionally, the dashboard includes interactive slicers for:  
+Year and Month: Filter performance by time periods.  
+Product Line and Country: Drill down into specific product lines or regions.  
 
-**Key findings:**
-Regional Insights: The USA generates the highest revenue (40% of total), followed by Spain and France.
-Product Performance: Classic Cars are the top-performing product line in terms of both revenue and quantity sold.
-Seasonality Trends: Sales peak during Q4, reflecting strong year-end demand.
-Order Sizes: Medium-sized orders dominate, accounting for 61% of total sales.
-This dashboard serves as a valuable tool for decision-making, providing actionable insights to drive strategic planning and performance optimization.
+**Key findings:**  
+Regional Insights: The USA generates the highest revenue (40% of total), followed by Spain and France.  
+Product Performance: Classic Cars are the top-performing product line in terms of both revenue and quantity sold.   
+Seasonality Trends: Sales peak during Q4, reflecting strong year-end demand.   
+Order Sizes: Medium-sized orders dominate, accounting for 61% of total sales.  
+This dashboard serves as a valuable tool for decision-making, providing actionable insights to drive strategic planning and performance optimization.   
 
-**Dashboard Overview:**
-![Dashboard](Dashboard.jpg)
+**Dashboard Overview:**  
+![Dashboard]()
 
 # Power BI Project 1
 
