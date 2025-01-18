@@ -91,14 +91,10 @@ Additionally, the dashboard includes interactive slicers for:
 * Product Line and Country: Drill down into specific product lines or regions.  
 
 **Key findings:**  
-Regional Insights: 
-* The USA generates the highest revenue (40% of total), followed by Spain and France.  
-Product Performance:
-* Classic Cars are the top-performing product line in terms of both revenue and quantity sold.   
-Seasonality Trends:
-* Sales peak during Q4, reflecting strong year-end demand.   
-Order Sizes:
-* Medium-sized orders dominate, accounting for 61% of total sales.  
+Regional Insights: The USA generates the highest revenue (40% of total), followed by Spain and France.  
+Product Performance: Classic Cars are the top-performing product line in terms of both revenue and quantity sold.   
+Seasonality Trends: Sales peak during Q4, reflecting strong year-end demand.   
+Order Sizes: Medium-sized orders dominate, accounting for 61% of total sales.  
 This dashboard serves as a valuable tool for decision-making, providing actionable insights to drive strategic planning and performance optimization.   
 
 **Dashboard Overview:**  
