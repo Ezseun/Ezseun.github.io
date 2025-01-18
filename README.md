@@ -71,6 +71,34 @@ Total Patients: The dataset includes 266,786 patients, of whom 53,473 have exper
 ![Dashboard](Dashboard.jpg)
 
 
+# Excel Project 2
+
+** Title:** [Automobile Sales Performance Dashboard](https://github.com/Ezseun/Ezseun.github.io/blob/main/Auto_Sales_Data.xlsx)
+
+**Tools Used:** Microsoft Excel (Excel formulas, Pivot Tables, Pivot Charts, Slicers, Timelines, and more)
+
+**Project Description:** 
+This project involved analyzing automobile sales data to identify trends and patterns in performance across regions, product lines, and customer segments. The dashboard provides a comprehensive overview of key metrics, enabling stakeholders to monitor and analyze sales dynamics effectively. Key features include:
+
+Sales Trends Over Time: A line chart visualizing quarterly sales performance, highlighting seasonality and trends.
+Order Size Distribution: A pie chart breaking down sales by small, medium, and large orders.
+Regional Sales Performance: A bar chart displaying total sales across countries to identify top-performing regions.
+Top 10 Products by Revenue: Highlights the best-performing products based on revenue.
+Customer by Revenue: Displays revenue contributions of key customers for strategic targeting.
+Product Line Analysis: A dual-axis chart comparing total revenue and units sold for each product line.
+Additionally, the dashboard includes interactive slicers for:
+Year and Month: Filter performance by time periods.
+Product Line and Country: Drill down into specific product lines or regions.
+
+**Key findings:**
+Regional Insights: The USA generates the highest revenue (40% of total), followed by Spain and France.
+Product Performance: Classic Cars are the top-performing product line in terms of both revenue and quantity sold.
+Seasonality Trends: Sales peak during Q4, reflecting strong year-end demand.
+Order Sizes: Medium-sized orders dominate, accounting for 61% of total sales.
+This dashboard serves as a valuable tool for decision-making, providing actionable insights to drive strategic planning and performance optimization.
+
+**Dashboard Overview:**
+![Dashboard](Dashboard.jpg)
 
 # Power BI Project 1
 
