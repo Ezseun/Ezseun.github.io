@@ -99,7 +99,7 @@ Order Sizes: Medium-sized orders dominate, accounting for 61% of total sales.
 This dashboard serves as a valuable tool for decision-making, providing actionable insights to drive strategic planning and performance optimization.   
 
 **Dashboard Overview:**  
-![Dashboard]()
+![Dashboard](Automobile.jpg)
 
 # Power BI Project 1
 
