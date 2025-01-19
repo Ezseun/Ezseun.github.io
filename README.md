@@ -6,21 +6,55 @@
 
 **SQL Skills Used:** 
 Data Retrieval (SELECT): Queried and extracted specific information about patient demographics, wait times, admissions, and satisfaction scores.
+
 Data Aggregation (AVG, COUNT, SUM): Calculated averages (e.g., wait times), totals (e.g., patient counts), and percentages (e.g., admission rates) for comprehensive trend analysis.
+
 Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, such as analyzing specific age groups, departments, and patient satisfaction levels.
+
 Common Table Expressions (CTE): Used CTE to simplify complex queries and improve code readability for analyzing trends and relationships in the dataset.
+
 Data Source Specification (FROM): Utilized the hospital emergency room dataset as the primary data source for analysis.
 
 **Project Description:**
 The primary objective of this project was extracting actionable insights and performing detailed trend analyses from a hospital emergency department dataset spanning two years and consisting of 9216 rows of data. Key analyses included:
 
 Demographic Trends: Understanding patient age, gender, and racial distributions.
+
 Performance Metrics: Evaluating department efficiency through average wait times and admission rates.
+
 Correlation Studies: Identifying relationships between wait times and satisfaction scores.
+
 Seasonal Trends: Analyzing monthly and yearly admission patterns.
+
 Departmental Insights: Highlighting the most referred departments and their associated metrics.
 
 **Technology used:** SQL server
+
+# SQL Project 2
+
+**Title:** Automobile Sales Data Analysis
+
+**SQL Skills Used:**
+
+**Data Retrieval (SELECT):** Queried and extracted specific information, such as sales trends, product performance, and customer contributions.
+
+**Data Aggregation (SUM, COUNT, AVG):** Calculated totals (e.g., total revenue, quantity sold), averages (e.g., average order value), and record counts to analyze data trends.
+
+**Data Filtering (WHERE, BETWEEN):** Applied filters to select relevant data, including filtering by time periods, countries, and deal sizes.
+
+**Data Grouping (GROUP BY):** Grouped data by key fields like product lines, regions, and time periods to generate insightful summaries.
+
+**Data Sorting (ORDER BY):** Ordered results by metrics like revenue and quantity sold to rank high-performing products and regions.
+
+**Common Table Expressions (CTEs):** Used CTEs to simplify complex queries and improve readability.
+
+**Window Functions (LAG, RANK):** Analyzed growth rates, ranked regions/products, and calculated rolling metrics.  
+  
+**Project Description:**
+
+This project involved analyzing automobile sales data to generate actionable insights for improving business performance. Using SQL queries, the analysis uncovered trends in sales, regional performance, product line contributions, and customer behavior. Key findings included identifying top-performing regions, high-revenue products, and seasonal sales trends. This project demonstrates advanced SQL capabilities, including data aggregation, filtering, and dynamic analysis using CTEs and window functions.
+
+**Technology Used:** SQL Server (SSMS)
 
 
 # Excel Project 1
