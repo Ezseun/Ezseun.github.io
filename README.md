@@ -39,12 +39,11 @@ Analytical Insights:
 * Product fulfilment analysis highlights areas where delivery performance could be improved to reduce outstanding quantities.
 
 Dashboard Overview:
-| Home Page   | Sales       | 
-|-------------|-------------|
-| ![Home Page](Home_Page.jpg) | ![Sales_Overview](Sales_Overview.jpg) |
-Product       | Order       |
-|-------------|-------------|
-| ![Products](Product_Analysis.jpg) | ![Order](Order_Analysis.jpg) |
+| Home Page                         | Sales                                 |
+| --------------------------------- | ------------------------------------- |
+| ![Home Page](Home_Page.jpg)       | ![Sales_Overview](Sales_Overview.jpg) |
+| Product                           | Order                                 |
+| ![Products](Product_Analysis.jpg) | ![Order](Order_Analysis.jpg)          |
 
 # Power BI Project
 
