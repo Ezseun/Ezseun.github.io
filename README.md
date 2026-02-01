@@ -39,7 +39,7 @@ Analytical Insights:
 * Product fulfilment analysis highlights areas where delivery performance could be improved to reduce outstanding quantities.
 
 Dashboard Overview:
-![Dashboard](Sales_Report_Dashboard.jpg)
+![Dashboard]()
 
 # Power BI Project
 
