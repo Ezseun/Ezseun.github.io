@@ -3,21 +3,17 @@
 **Title:** End-to-End Sales Performance & Product Analytics Dashboard
 
 **Tools Used:** 
-*Power BI Desktop – Interactive dashboards, KPI cards, slicers, drill-downs, tooltips, and report navigation.
-
-*DAX – Advanced measures including YTD, LY, YoY comparisons, profitability classification, dynamic text summaries, and conditional indicators.
-
-*Power Query (M) – Data cleaning, transformation, data type enforcement, and query optimisation.
-
-*SQL (T-SQL) – Writing SQL scripts for data extraction, joins, filtering, and aggregation
-
-*Preparing analysis-ready datasets prior to loading into Power BI
-*SQL Server / Relational Databases – Primary structured data source for fact and dimension tables.
-*Data Modelling – Star schema design with fact tables and multiple dimensions (Date, Product, Store, Sales Team).
-*Time Intelligence – Calendar table creation, fiscal logic, YTD and LY calculations.
-*Conditional Formatting & SVG Icons – Dynamic visual indicators showing performance versus prior periods.
-*Report Design & UX – Dark-theme dashboard design, layout consistency, and executive-focused storytelling.
-*Performance Optimisation – Measure reuse, efficient filter context handling, and reduced model complexity.
+* Power BI Desktop – Interactive dashboards, KPI cards, slicers, drill-downs, tooltips, and report navigation.
+* DAX – Advanced measures including YTD, LY, YoY comparisons, profitability classification, dynamic text summaries, and conditional indicators.
+* Power Query (M) – Data cleaning, transformation, data type enforcement, and query optimisation.
+* SQL (T-SQL) – Writing SQL scripts for data extraction, joins, filtering, and aggregation
+* Preparing analysis-ready datasets prior to loading into Power BI
+* SQL Server / Relational Databases – Primary structured data source for fact and dimension tables.
+* Data Modelling – Star schema design with fact tables and multiple dimensions (Date, Product, Store, Sales Team).
+* Time Intelligence – Calendar table creation, fiscal logic, YTD and LY calculations.
+* Conditional Formatting & SVG Icons – Dynamic visual indicators showing performance versus prior periods.
+* Report Design & UX – Dark-theme dashboard design, layout consistency, and executive-focused storytelling.
+* Performance Optimisation – Measure reuse, efficient filter context handling, and reduced model complexity.
 
 **Project Description:** This project involved building an end-to-end sales analytics solution that combines SQL-based data preparation with Power BI modelling and advanced DAX. Multiple data sources, including SQL databases, Excel files, and CSV files, were integrated into a single analytical model.
 
