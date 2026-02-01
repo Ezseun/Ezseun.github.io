@@ -5,7 +5,7 @@
 
 **Tools Used:** 
 * Power BI Desktop – Interactive dashboards, KPI cards, slicers, drill-downs, tooltips, and report navigation.
-* DAX – Advanced measures including YTD, LY, YoY comparisons, profitability classification, dynamic text summaries, and conditional indicators.
+* DAX – Advanced measures including YTD, LY, YOY comparisons, profitability classification, dynamic text summaries, and conditional indicators.
 * Power Query (M) – Data cleaning, transformation, data type enforcement, and query optimisation.
 * SQL (T-SQL) – Writing SQL scripts for data extraction, joins, filtering, and aggregation
 * Preparing analysis-ready datasets prior to loading into Power BI
