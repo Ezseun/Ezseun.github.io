@@ -1,6 +1,7 @@
 # Power BI Project 
 
 **Title:** End-to-End Sales Performance & Product Analytics Dashboard
+[Tecky Analysis Project.pbix](https://github.com/Ezseun/Ezseun.github.io/blob/main/Tecky_Sales_Report_%20Project_Ezekiel_Oladimeji.pbix)
 
 **Tools Used:** 
 * Power BI Desktop – Interactive dashboards, KPI cards, slicers, drill-downs, tooltips, and report navigation.
