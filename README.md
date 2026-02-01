@@ -1,4 +1,47 @@
-# Power BI Project 1
+# Power BI Project 
+
+**Title:** End-to-End Sales Performance & Product Analytics Dashboard
+
+**Tools Used:** 
+*Power BI Desktop – Interactive dashboards, KPI cards, slicers, drill-downs, tooltips, and report navigation.
+*DAX – Advanced measures including YTD, LY, YoY comparisons, profitability classification, dynamic text summaries, and conditional indicators.
+*Power Query (M) – Data cleaning, transformation, data type enforcement, and query optimisation.
+*SQL (T-SQL) – Writing SQL scripts for data extraction, joins, filtering, and aggregation
+*Preparing analysis-ready datasets prior to loading into Power BI
+*SQL Server / Relational Databases – Primary structured data source for fact and dimension tables.
+*Data Modelling – Star schema design with fact tables and multiple dimensions (Date, Product, Store, Sales Team).
+*Time Intelligence – Calendar table creation, fiscal logic, YTD and LY calculations.
+*Conditional Formatting & SVG Icons – Dynamic visual indicators showing performance versus prior periods.
+*Report Design & UX – Dark-theme dashboard design, layout consistency, and executive-focused storytelling.
+*Performance Optimisation – Measure reuse, efficient filter context handling, and reduced model complexity.
+
+**Project Description:** This project involved building an end-to-end sales analytics solution that combines SQL-based data preparation with Power BI modelling and advanced DAX. Multiple data sources, including SQL databases, Excel files, and CSV files, were integrated into a single analytical model.
+
+The dashboard was designed to support both high-level performance monitoring and detailed product-level analysis. Interactive filters allow users to explore trends by time period, product, store, and sales team, while dynamic KPIs and conditional indicators highlight areas of strong and weak performance.
+
+**Key findings:**   
+
+* Key Performance Indicators (KPIs):
+* Total Sales: £73.14M
+* Total Quantity Sold: 36,162 units
+* Total Orders: 7,991
+* Total COGs: £51.82M
+* Total Profit: £21.33M
+* Year-to-Date Sales: £8.52M
+
+Analytical Insights:   
+
+* Analytical Insights
+* Sales performance remains strong, supported by consistent year-to-date growth.
+* Profitability is healthy, reflecting effective cost control and stable margins.
+* A small number of products and categories drive a large proportion of total sales and profit.
+* Monthly trends show clear seasonality, with stronger performance mid-year and towards year-end.
+* Product fulfilment analysis highlights areas where delivery performance could be improved to reduce outstanding quantities.
+
+Dashboard Overview:
+![Dashboard](Sales_Report_Dashboard.jpg)
+
+# Power BI Project
 
 **Title:** Sales Insight Dashboard
 
@@ -34,42 +77,6 @@ Product Trends:
 Dashboard Overview:
 ![Dashboard](Sales_Report_Dashboard.jpg)
 
-
-# Power BI Project 2
-
-**Title:** Sales Insight Dashboard
-
-**Tools Used:** Data Visualization: Designed and created interactive visualizations to represent sales performance metrics.
-Data Filtering (Slicers): Incorporated slicers for filtering data by gender, year, quarter, month, and day.
-Data Aggregation: Summarized data using measures such as total revenue, total products sold, and total transactions.
-Dynamic Reporting: Enabled drill-down capabilities and dynamic updates to ensure flexibility in analysis.
-
-**Project Description:** This project involved creating a sales report dashboard to provide a holistic overview of business performance metrics. The dashboard was designed using Power BI and incorporates dynamic filtering, visual elements, and KPIs to provide actionable insights for decision-making. The dashboard focuses on summarizing sales trends, customer demographics, and product performance.
-
-**Key findings:**   
-
-Key Performance Indicators (KPIs):
-
-* Total revenue: $456K.
-* Total products sold: 2,514 units.
-* Total transactions: 1,000.
-
-Revenue Insights:   
-
-* Top-performing products by revenue: Electronics ($157K), Clothing ($156K), and Beauty ($144K).
-* Revenue distribution by age group: Customers aged 25-54 contributed the most revenue ($97K each).
-
-Gender-based Analysis:
-* Purchase split: 51% male and 49% female.
-
-Sales Trends:
-* Monthly trends showed peaks in June, September, and November.
-
-Product Trends:
-* Quantity sold by product category: Clothing (0.89K), Electronics (0.85K), and Beauty (0.77
-
-Dashboard Overview:
-![Dashboard](Sales_Report_Dashboard.jpg)
 
 
 
