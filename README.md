@@ -1,6 +1,6 @@
 # Power BI Project 
-**Title:** nd-to-End Emergency Department (ED) Performance & Patient Flow Analytics Dashboard
-[Tecky Analysis Project.pbix](http://bit.ly/4c2fezH)
+**Title:** End-to-End Emergency Department (ED) Performance & Patient Flow Analytics Dashboard
+[Interact with the report](http://bit.ly/4c2fezH)
 
 **Tools Used:** 
 * Power BI Desktop – Interactive dashboards, KPI cards, slicers, decomposition tree, report page tooltips, and drill-through analysis.
@@ -12,7 +12,6 @@
 * Time Intelligence – Calendar table creation, Month-Year logic, and month-on-month trend analysis.
 * Statistical Analysis – Use of 95th percentile to assess extreme waiting times and operational pressure.
 * Conditional Formatting & Indicators – Dynamic KPI arrows, colour-based performance signals, and threshold-based insights.
-* Report Design & UX – Clean NHS-style layout, consistent blue theme, structured analytical flow, and executive-level storytelling.
 * Performance Optimisation – Efficient DAX patterns, reusable measures, and optimised filter context handling.
 
 **Project Description:** This project involved building an end-to-end Emergency Department (ED) performance dashboard to analyse patient flow, waiting times, and operational efficiency over a two-year period (2024–2025).
@@ -45,7 +44,7 @@ Analytical Insights:
 * Root cause analysis reveals that arrival mode and patient characteristics are key drivers of ED pressure and breaches.
 
 Dashboard Overview:
-![Home Page](Home_Pages.jpg)  ![Sales_Overview](Performance.jpg)
+![Home Page](Home_Pages.jpg)
 
 
 
