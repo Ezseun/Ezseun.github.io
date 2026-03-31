@@ -1,4 +1,53 @@
 # Power BI Project 
+**Title:** nd-to-End Emergency Department (ED) Performance & Patient Flow Analytics Dashboard
+[Tecky Analysis Project.pbix](http://bit.ly/4c2fezH)
+
+**Tools Used:** 
+* Power BI Desktop – Interactive dashboards, KPI cards, slicers, decomposition tree, report page tooltips, and drill-through analysis.
+* DAX – Advanced measures including 4-hour performance, breach rates, admission conversion, MoM change, dynamic KPI indicators, and percentile calculations.
+* Power Query (M) – Data cleaning, transformation, column standardisation, and preparation of analysis-ready datasets.
+* SQL (T-SQL) – Data extraction, filtering, aggregation, and validation of ED attendance data prior to modelling.
+* SQL Server / Relational Databases – Structured data storage for ED attendances and supporting dimensions.
+* Data Modelling – Star schema design with fact table (ED attendances) and dimensions (Calendar, Arrival Mode, Age Group, Complaint Category).
+* Time Intelligence – Calendar table creation, Month-Year logic, and month-on-month trend analysis.
+* Statistical Analysis – Use of 95th percentile to assess extreme waiting times and operational pressure.
+* Conditional Formatting & Indicators – Dynamic KPI arrows, colour-based performance signals, and threshold-based insights.
+* Report Design & UX – Clean NHS-style layout, consistent blue theme, structured analytical flow, and executive-level storytelling.
+* Performance Optimisation – Efficient DAX patterns, reusable measures, and optimised filter context handling.
+
+**Project Description:** This project involved building an end-to-end Emergency Department (ED) performance dashboard to analyse patient flow, waiting times, and operational efficiency over a two-year period (2024–2025).
+
+The solution integrates structured healthcare data into a Power BI model designed to support both high-level monitoring and detailed performance investigation. The dashboard is split into two main pages:
+
+* Overview Page – Presents key KPIs such as total attendances, 4-hour performance, admission rates, and waiting times.
+Performance Page – Focuses on deeper analysis including breach trends, extreme waiting times (95th percentile), and root cause analysis using decomposition trees.
+
+* Interactive slicers allow users to explore trends by year, arrival mode, and patient demographics, while dynamic indicators highlight performance changes over time.
+
+**Key findings:**   
+
+* Key Performance Indicators (KPIs):
+* Total Attendances: ~14,000+
+* 4-Hour Performance: Below 95% constitutional standard across most months
+* Interim Recovery Target (78%): Achieved intermittently
+* Admission Conversion Rate: Stable across period
+* Average Waiting Time: Consistently elevated during peak months
+* 95th Percentile Waiting Time: Frequently above 240 minutes (4-hour threshold)
+
+Analytical Insights:   
+
+* Analytical Insights
+* ED performance consistently falls below the 95% constitutional standard, indicating sustained operational pressure.
+* The 95th percentile waiting time exceeds 240 minutes in multiple months, showing that a proportion of patients experience significant delays beyond the 4-hour target.
+* Breach trends align closely with increases in waiting time, confirming a direct relationship between system pressure and performance decline.
+* Certain age groups experience higher breach rates and longer waiting times, highlighting potential inequalities in patient flow.
+* Complaint category analysis shows that specific conditions contribute disproportionately to longer waiting times and delays.
+* Root cause analysis reveals that arrival mode and patient characteristics are key drivers of ED pressure and breaches.
+
+Dashboard Overview:
+![Home Page](Home_Pages.jpg)  ![Sales_Overview](Performance.jpg)
+
+
 
 **Title:** End-to-End Sales Performance & Product Analytics Dashboard
 [Tecky Analysis Project.pbix](https://github.com/Ezseun/Ezseun.github.io/blob/main/Tecky_Sales_Report_%20Project_Ezekiel_Oladimeji.pbix)
